@@ -18,9 +18,11 @@ Download source of NRF52:
 Documentary Libraries NRF52___:
 1. https://www.nordicsemi.com/DocLib?Product=nRF52832%20core%20documentation&tags=nRF52832%2CnRF52+DK
 
+nRF52832:
+1. https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52832
 
-some example
-http://embeddedsoftdev.blogspot.com/2018/02/bluetooth-le-with-nordic-nrf51-nrf52.html
+Some example:
+1. http://embeddedsoftdev.blogspot.com/2018/02/bluetooth-le-with-nordic-nrf51-nrf52.html
 
 
 
