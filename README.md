@@ -24,6 +24,9 @@ nRF52832:
 Some example:
 1. http://embeddedsoftdev.blogspot.com/2018/02/bluetooth-le-with-nordic-nrf51-nrf52.html
 
+pdf datasheet
+http://infocenter.nordicsemi.com/pdf/nRF52832_PS_v1.1.pdf
+
 
 
 
