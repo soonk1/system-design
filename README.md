@@ -12,3 +12,5 @@ Google on NRF52
 Download source of NRF52:
 1. https://www.segger.com/downloads/embedded-studio
 
+Documentary Libraries NRF52___:
+1. https://www.nordicsemi.com/DocLib?Product=nRF52832%20core%20documentation&tags=nRF52832%2CnRF52+DK
