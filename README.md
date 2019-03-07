@@ -24,12 +24,14 @@ nRF52832:
 Some example:
 1. http://embeddedsoftdev.blogspot.com/2018/02/bluetooth-le-with-nordic-nrf51-nrf52.html
 
-pdf datasheet
+pdf datasheet:
+1. http://infocenter.nordicsemi.com/pdf/nRF52832_PS_v1.1.pdf
 
-http://infocenter.nordicsemi.com/pdf/nRF52832_PS_v1.1.pdf
+smart watch we have done thankyou.
+1. https://github.com/curtpw/nRF5x-device-reverse-engineering
 
-smart watch we have done thankyou. debugging rely on kaven. that's all
-https://github.com/curtpw/nRF5x-device-reverse-engineering
+Peripheral access API for nrf52 family microcontrollers
+1. https://github.com/nrf-rs/nrf52832-pac
 
 
 
