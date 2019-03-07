@@ -16,6 +16,9 @@ Documentary Libraries NRF52___:
 1. https://www.nordicsemi.com/DocLib?Product=nRF52832%20core%20documentation&tags=nRF52832%2CnRF52+DK
 
 
+some example
+http://embeddedsoftdev.blogspot.com/2018/02/bluetooth-le-with-nordic-nrf51-nrf52.html
+
 
 
 
