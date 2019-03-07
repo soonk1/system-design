@@ -25,9 +25,11 @@ Some example:
 1. http://embeddedsoftdev.blogspot.com/2018/02/bluetooth-le-with-nordic-nrf51-nrf52.html
 
 pdf datasheet
+
 http://infocenter.nordicsemi.com/pdf/nRF52832_PS_v1.1.pdf
 
-
+smart watch we have done thankyou. debugging rely on kaven. that's all
+https://github.com/curtpw/nRF5x-device-reverse-engineering
 
 
 
