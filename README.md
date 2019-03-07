@@ -29,6 +29,7 @@ pdf datasheet:
 
 smart watch we have done thankyou.
 1. https://github.com/curtpw/nRF5x-device-reverse-engineering
+
 2.https://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.sdk52.v0.9.0%2Fble_sdk_app_hrs.html
 
 Peripheral access API for nrf52 family microcontrollers
