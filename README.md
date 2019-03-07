@@ -3,7 +3,8 @@
 This is aimed to do system design task. I really need your Help!!!
 
 What is NRF52?
-https://www.nordicsemi.com/Software-and-Tools/Development-Kits/nRF52-DK
+1. https://www.nordicsemi.com/Software-and-Tools/Development-Kits/nRF52-DK
+2. https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52832
 
 Google on NRF52
 https://www.google.com/search?q=SEGGER+Embedded+Studio&rlz=1C1CHBF_enMY779MY779&oq=SEGGER+Embedded+Studio&aqs=chrome..69i57&sourceid=chrome&ie=UTF-8
