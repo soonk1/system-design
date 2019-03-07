@@ -1,0 +1,2 @@
+Flash hex/test_uicr_write.hex to device using your programming tool.
+Read address 0x10001080. Verify the read value is 0xDEADBEEF.
