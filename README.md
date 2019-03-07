@@ -1,2 +1,3 @@
 # system-design
-PLEASE HELP ME
+
+This is aimed to do system design task
