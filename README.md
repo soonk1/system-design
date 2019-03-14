@@ -5,6 +5,55 @@ This is aimed to do system design task. I really need your Help!!!
 Intro to Github:
 1. https://guides.github.com/activities/hello-world/
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 What is NRF52?
 1. https://www.nordicsemi.com/Software-and-Tools/Development-Kits/nRF52-DK
 2. https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52832
