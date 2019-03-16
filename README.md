@@ -22,6 +22,10 @@ MAX30102
 
 8. ** https://www.instructables.com/id/Pulse-Oximeter-With-Much-Improved-Precision/
 
+9. Heart Rate Monitor Demo (MAXIM) - https://www.youtube.com/watch?v=gliS8kdWNMM
+
+
+
 
 
 
