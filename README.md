@@ -12,7 +12,15 @@ MAX30102
 
 3. Measure Heart Rate/BPM and SpO2 with MAX30102 + Arduino - https://www.youtube.com/watch?v=cEtyMkubXj4&t=37s
 
-4. 
+4. https://github.com/oscaratnc/MAX30102-in-raspberry-pi-
+
+5. https://www.instructables.com/id/Arduino-Pulse-Oximeter-Using-MAX30100/
+
+6. https://www.instructables.com/id/Finger-Pulse-Oximeter-Using-MAX30100/
+
+7. https://www.instructables.com/id/Pulse-Oximeter-Data-Capture-with-Raspberry-Pi/
+
+8. 
 
 
 
