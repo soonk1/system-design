@@ -24,6 +24,8 @@ MAX30102
 
 9. Heart Rate Monitor Demo (MAXIM) - https://www.youtube.com/watch?v=gliS8kdWNMM
 
+10. MAX30102 by RF - https://github.com/aromring/MAX30102_by_RF
+
 
 
 
