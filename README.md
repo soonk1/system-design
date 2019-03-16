@@ -20,7 +20,7 @@ MAX30102
 
 7. https://www.instructables.com/id/Pulse-Oximeter-Data-Capture-with-Raspberry-Pi/
 
-8. 
+8. ** https://www.instructables.com/id/Pulse-Oximeter-With-Much-Improved-Precision/
 
 
 
