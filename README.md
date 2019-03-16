@@ -9,16 +9,27 @@ MAX30102
 https://mikroelectron.com/Product/MAX30102-PULSE-OXIMETER-HEART-RATE-SENSOR-MODULE/
 
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 .
+
 What is NRF52?
 1. https://www.nordicsemi.com/Software-and-Tools/Development-Kits/nRF52-DK
 2. https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52832
