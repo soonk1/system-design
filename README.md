@@ -6,7 +6,14 @@ Intro to Github:
 1. https://guides.github.com/activities/hello-world/
 
 MAX30102
-https://mikroelectron.com/Product/MAX30102-PULSE-OXIMETER-HEART-RATE-SENSOR-MODULE/
+1. https://mikroelectron.com/Product/MAX30102-PULSE-OXIMETER-HEART-RATE-SENSOR-MODULE/
+
+2. https://github.com/vrano714/max30102-tutorial-raspberrypi
+
+3. Measure Heart Rate/BPM and SpO2 with MAX30102 + Arduino - https://www.youtube.com/watch?v=cEtyMkubXj4&t=37s
+
+4. 
+
 
 
 
