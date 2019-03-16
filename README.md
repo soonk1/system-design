@@ -10,7 +10,7 @@ https://mikroelectron.com/Product/MAX30102-PULSE-OXIMETER-HEART-RATE-SENSOR-MODU
 .
 .
 .
-..
+.
 .
 .
 .
