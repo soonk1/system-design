@@ -5,6 +5,12 @@ This is aimed to do system design task. I really need your Help!!!
 Intro to Github:
 1. https://guides.github.com/activities/hello-world/
 
+Entire chip connection of MAX30102:
+1. 3x1k resisters
+
+2. 2x0.1uF, 1x4.7uF, 1x10uF capacitors
+
+
 MAX30102
 1. https://mikroelectron.com/Product/MAX30102-PULSE-OXIMETER-HEART-RATE-SENSOR-MODULE/
 
