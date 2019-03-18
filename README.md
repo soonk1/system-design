@@ -38,7 +38,11 @@ MAX30102
 
 13. PULSE OXIMETER IS A LOT OF WORK (arduino sorce code) - https://hackaday.com/2017/03/11/pulse-oximeter-is-a-lot-of-work/
 
+.
 
+.
+
+.
 
 Micropython
 
