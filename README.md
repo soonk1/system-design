@@ -36,10 +36,15 @@ MAX30102
 
 12. MAX30102 pulse and heart-rate monitor sensor and ESP8266 (with source code) - http://www.esp8266learning.com/max30102-pulse-and-heart-rate-monitor-sensor-and-esp8266.php#codesyntax_3
 
+13. PULSE OXIMETER IS A LOT OF WORK (arduino sorce code) - https://hackaday.com/2017/03/11/pulse-oximeter-is-a-lot-of-work/
 
 
 
+Micropython
 
+1. What is Micropython - https://www.oreilly.com/library/view/programming-with-micropython/9781491972724/ch01.html
+
+2. MicroPython Programming Tutorial: Getting Started with the ESP32 Thing - https://learn.sparkfun.com/tutorials/micropython-programming-tutorial-getting-started-with-the-esp32-thing/all
 
 
 
