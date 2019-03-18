@@ -34,6 +34,8 @@ MAX30102
 
 11. MAX30102 pulse oximetry and heart-rate monitor sensor and ESP32 (with source code) - http://www.esp32learning.com/code/max30102-pulse-oximetry-and-heart-rate-monitor-sensor-and-esp32.php
 
+12. MAX30102 pulse and heart-rate monitor sensor and ESP8266 (with source code) - http://www.esp8266learning.com/max30102-pulse-and-heart-rate-monitor-sensor-and-esp8266.php#codesyntax_3
+
 
 
 
