@@ -32,6 +32,8 @@ MAX30102
 
 10. MAX30102 by RF - https://github.com/aromring/MAX30102_by_RF
 
+11. MAX30102 pulse oximetry and heart-rate monitor sensor and ESP32 (with source code) - http://www.esp32learning.com/code/max30102-pulse-oximetry-and-heart-rate-monitor-sensor-and-esp32.php
+
 
 
 
